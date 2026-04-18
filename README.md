@@ -37,5 +37,6 @@ Movie data is fetched from a local JSON server using `fetch()`.
 ## How to Run the Project
 
 ### 1. Start JSON Server
-```bash
-npx json-server db.json --port 3000
+```bash or terminal
+(Position yourself in javascriptmovieseatbookSTART)
+Run the JSON server: npx json-server db.json --port 3000
